@@ -1,0 +1,2 @@
+# EmailSub
+Auto Newsletter Subscription
